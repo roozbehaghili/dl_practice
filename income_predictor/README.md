@@ -16,6 +16,7 @@ The dataset used in this project is the **Adult Income dataset** from the UCI Ma
 - Relationship status
 - Race
 - Sex
+  
   ...
 
 ### Target
