@@ -13,6 +13,7 @@ The dataset used in this project is the [California Housing Prices](https://www.
 - Square footage
 - Building age
 - Population
+  
   ...
 
 ### Target
